@@ -1,2 +1,2 @@
 <h1>Barberia alura<h1/>
--estado del proyecto: finalizado
+-estado del proyecto: en construccion ;D
